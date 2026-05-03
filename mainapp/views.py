@@ -4,7 +4,6 @@ from django.http import HttpResponse
 from .forms import SignUpForm, UserForm
 from django.contrib.auth.decorators import login_required
 from django.contrib.auth import login, authenticate
-from wheel.metadata import _
 from .models import ProfileModel, Games
 from django.contrib import messages
 
