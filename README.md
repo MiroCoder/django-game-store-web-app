@@ -1,6 +1,6 @@
-# Game Web Repeatin
+# Django Game Store Web App
 
-Game Web Repeatin is a Django web application for browsing, buying, and managing a video game catalog.
+Django Game Store Web App is a Django-based web application for browsing, buying, and managing a video game catalog.
 
 Users can explore available games, view details, and build their personal game library. Admins can manage games, users, and purchases through the Django admin panel.
 
