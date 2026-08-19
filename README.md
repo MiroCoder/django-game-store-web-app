@@ -34,8 +34,8 @@ Django web application for browsing a video-game catalog, purchasing games and m
 ## Run Locally
 
 ```bash
-git clone https://github.com/MiroCoder/django-game-store-web-app.git
-cd django-game-store-web-app
+git clone https://github.com/MiroCoder/django-game-store.git
+cd django-game-store
 python -m venv .venv
 ```
 
